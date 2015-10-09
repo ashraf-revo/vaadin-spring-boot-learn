@@ -6,7 +6,7 @@
     <groupId>org.revo</groupId>
     <artifactId>learn</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <description>learn Vaadin and Spring Data backend</description>
 
 
