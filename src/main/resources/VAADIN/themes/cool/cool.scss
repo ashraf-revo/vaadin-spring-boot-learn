@@ -1,17 +1,4 @@
 @import "../valo/valo.scss";
-
 @mixin cool {
   @include valo;
-  .v-button {
-    background: #f53a4d;
-    border-color: black;
-  }
-  .v-textfield {
-    border-color: aqua;
-  }
-  .v-datefield-textfield {
-    border-color: aqua;
-
-  }
-
 }
